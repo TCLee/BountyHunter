@@ -1,0 +1,25 @@
+BountyHunter
+ 
+===========================================================================
+DESCRIPTION:
+ 
+This sample is based on the original iBountyHunter project found in the 
+Head First iPhone and iPad development (which is a wonderful book 
+for learning iOS development). 
+
+The original iBountyHunter project only supported iOS 4. This new and
+improved BountyHunter project supports all the latest iOS 5 features 
+(i.e. Storyboard, ARC).
+ 
+===========================================================================
+BUILD REQUIREMENTS:
+ 
+Xcode 4.3 or later, iOS 5.0 SDK or later
+ 
+===========================================================================
+RUNTIME REQUIREMENTS:
+ 
+iOS 5.0 or later
+ 
+===========================================================================
+Copyright (C) 2012 Lee Tze Cheun. All rights reserved.
