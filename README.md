@@ -1,6 +1,6 @@
 #Bounty Hunter
 
-![Bounty Hunter App](http://tclee.github.io/BountyHunter/images/screenshot.png "Bounty Hunter App")
+![Bounty Hunter App](http://tclee.github.io/BountyHunter/images/screenshot.jpg "Bounty Hunter App")
 
 This sample is based on the original iBountyHunter project found in the 
 Head First iPhone and iPad development (which is a wonderful book 
